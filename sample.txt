@@ -1,0 +1,15 @@
+ Volume in drive D is Data Disk
+ Volume Serial Number is 6667-8501
+
+ Directory of D:\Jenkins_practice\edyodapipelinedemo
+
+08/20/2020  12:38 AM    <DIR>          .
+08/20/2020  12:38 AM    <DIR>          ..
+04/30/2018  07:43 PM                 7 .gitignore
+04/30/2018  07:43 PM             6,258 pom.xml
+04/30/2018  07:43 PM                64 README.md
+08/20/2020  12:38 AM                 0 sample.txt
+04/30/2018  07:43 PM    <DIR>          server
+04/30/2018  07:43 PM    <DIR>          webapp
+               4 File(s)          6,329 bytes
+               4 Dir(s)  243,922,173,952 bytes free
